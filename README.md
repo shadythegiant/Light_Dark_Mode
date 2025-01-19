@@ -1,6 +1,8 @@
 This projects a part of the Zero To Mastery 20 Web projects!
-Technologies used:
 
+-----------------------------------------
+Technologies used:
+----------------------------------------
 - HTML
 - CSS
 - Vanilla Javascript
